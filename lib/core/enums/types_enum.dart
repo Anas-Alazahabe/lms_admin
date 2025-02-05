@@ -1,0 +1,5 @@
+enum Types{
+  subject,
+  lesson,
+
+}
